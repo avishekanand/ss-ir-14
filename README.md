@@ -8,9 +8,9 @@ Students chose the modules they are interested in contributing to and provide th
 Guidelines
 ==========
 
-1) Do not change the interfaces or design structure.
-2) The locations in the code which are marked as unmutable should not be modified.
-3) Please adhering to the java naming conventions as mentioned in 
++ Do not change the interfaces or design structure.
++ The locations in the code which are marked as unmutable should not be modified.
++ Please adhering to the java naming conventions as mentioned in 
     - http://www.oracle.com/technetwork/java/codeconventions-135099.html
     
 Enjoy hacking !!!
