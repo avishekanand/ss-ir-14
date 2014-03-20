@@ -10,7 +10,7 @@ Guidelines
 
 + Do not change the interfaces or design structure.
 + The locations in the code which are marked as unmutable should not be modified.
-+ Please adhering to the java naming conventions as mentioned in 
++ Please adhere to the java naming conventions as mentioned in 
     - http://www.oracle.com/technetwork/java/codeconventions-135099.html
     
 Enjoy hacking !!!
